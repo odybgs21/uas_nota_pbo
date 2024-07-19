@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author budi
+ * @author ody
  */
 public class NoteAppMenu {
     private NoteService noteService;

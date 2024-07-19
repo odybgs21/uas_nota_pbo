@@ -8,7 +8,7 @@ import com.obs.uas_pbo.noteapp.NoteAppMenu;
 
 /**
  *
- * @author mirage
+ * @author ody
  */
 public class Main {
 
